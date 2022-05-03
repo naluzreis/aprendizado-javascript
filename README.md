@@ -1,7 +1,9 @@
 # Aprendizados em javascript
 
 Projeto feito na trybe no início do aprendizado deJavaScript, tendo alguns requisitos:
+
     `Requisitos obrigatórios:`
+    
     - [1 - Crie uma função usando o operador &&](#1---crie-uma-função-usando-o-operador-)
     - [2 - Crie uma função que calcule a área de um triângulo](#2---crie-uma-função-que-calcule-a-área-de-um-triângulo)
     - [3 - Crie uma função que divida a frase](#3---crie-uma-função-que-divida-a-frase)
